@@ -26,7 +26,7 @@ Instructions:
 make all
 ./graphics_asgn1 
 
-Hope you enjoy playing this, as much as I did making it :winking_eye:
+Hope you enjoy playing this, as much as I did making it :wink:
 
 
 
