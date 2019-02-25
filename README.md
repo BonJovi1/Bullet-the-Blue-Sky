@@ -1,7 +1,7 @@
 Bullet the Blue Sky
 =========================
 Welcome to a 3D emulation of a jet fighter plane game!
-(Not the classic U2 song from The Joshua Tree)
+(Not the classic U2 song from The Joshua Tree :stuck_out_tongue:)
 
 Immerse yourself in an awesome aerial environment! You're the pilot, learning to fly. There are 20 enemy checkpoints in the ocean below, which will shoot bullets at you if you get near them. You can kill them using your missiles and bombs. But beware! If those bullets hit you, or if you get too close to the volcanoes, you lose fuel. Keep refueling by going through smoke rings, killing the enemy parachutes and the fuel ups which appear randomly. 
 
@@ -17,7 +17,7 @@ Controls:
 
 Don't go near the volcanoes, you lose fuel.
 Try shooting your missiles at the parachutes to get some extra fuel! 
-Kill all 20 enemies to complete the game!
+Kill all 20 enemies to complete the game! :fire:
 
 The meter on the right shows altitude, and the one on the left shows your life/fuel. The one on the top right is a compass. 
 
@@ -26,7 +26,7 @@ Instructions:
 make all
 ./graphics_asgn1 
 
-Hope you enjoy playing this, as much as I did making it :P
+Hope you enjoy playing this, as much as I did making it :winking_eye:
 
 
 
